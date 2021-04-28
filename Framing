@@ -22,3 +22,16 @@ int main()
 	
 	return 0;
 	}
+	
+		OUTPUT:
+		Enter the number of frames
+		3
+		enter the frames :
+		Network_
+		Programming_
+		Lab
+		length of frame 1 = 8
+		length of frame 2 = 12
+		length of frame 3 = 3
+		FRAMES AT THE RECEIVER END:
+		Network_Programming_Lab	
