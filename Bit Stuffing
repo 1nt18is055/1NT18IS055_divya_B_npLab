@@ -27,3 +27,10 @@ int main()
 		
  	return 0;
 }
+
+	OUTPUT:
+	Enter the length of input string	
+	8
+	Enter the input	10111110
+	Input :10111110	
+	Input  After Bit stuffing : 101111100
