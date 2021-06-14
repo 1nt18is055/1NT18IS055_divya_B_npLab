@@ -48,3 +48,7 @@ int main()
     close(sock);
     return 0;
 }
+
+OUTPUT:
+    send Filename to send
+    hello
