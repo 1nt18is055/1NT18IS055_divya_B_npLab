@@ -64,3 +64,11 @@ int main(void){
     close(socket_desc);
 
 }
+
+    OUTPUT:
+    Socket created successfully
+    Done with binding
+    Listening for incoming messages...
+
+    Received message from IP: 127.0.0.1 and port: 44412
+    Msg from client: hello
