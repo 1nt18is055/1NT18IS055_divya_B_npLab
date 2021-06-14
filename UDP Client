@@ -52,3 +52,9 @@ int main(void){
     
     return 0;
 }
+
+
+    OUTPUT:
+    Socket created successfully
+    Enter message: hello
+    Server's response: HELLO
