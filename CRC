@@ -82,3 +82,27 @@ int main() {
     	
     	return 0;
     }
+    
+    
+    
+    OUTPUT:
+    
+    nter Data Block(sender's side): 10101100
+Enter co-efficients of Polynomial: 1011
+Enter Data Block(receiver's side): 11
+
+CRC is 011
+Code word sent :
+11011
+Data at the receiver's side has error
+
+Data at the receiver's side has error
+Enter Data Block(sender's side): 10101100
+Enter co-efficients of Polynomial: 1011
+Enter Data Block(receiver's side): 10101100
+
+CRC is 011
+Code word sent :
+10101100011
+Data at the receiver's side is  error free
+
