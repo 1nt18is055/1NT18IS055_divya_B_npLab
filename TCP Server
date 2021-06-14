@@ -71,3 +71,7 @@ int main()
         
     }
 }
+
+    OUTPUT:
+    tcp server is waiting for client on port XXXX
+    reciecved data is hello
